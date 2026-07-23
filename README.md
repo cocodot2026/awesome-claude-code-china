@@ -67,6 +67,8 @@ Run your own, plug in your own upstream keys — full control, code never transi
 - [claude-code-china-direct](https://github.com/cocodot2026/claude-code-china-direct) — official vs relay vs self-host, and how to verify.
 - [llm-relay-degradation-check](https://github.com/cocodot2026/llm-relay-degradation-check) — the 3 downgrade tricks + how to catch them.
 - [subscribe-ai-from-china](https://github.com/cocodot2026/subscribe-ai-from-china) — subscribing to overseas AI from China.
+- [Anthropic API top-up from China (Alipay)](https://cocodot.co/hub/anthropic-api) — maintainer's own guide (cocodot), disclosed.
+- [2026 China AI API relay comparison](https://cocodot.co/hub/shenma-teamorouter-api2d-compare) — side-by-side relay landscape; maintainer builds one of them, disclosed, competitors on equal terms.
 
 ## Troubleshooting
 - `401/403` — wrong key, or wrong endpoint (Claude Code wants the **Anthropic**-compatible URL; Cursor/Cline want the **OpenAI** one, usually `/v1`).
